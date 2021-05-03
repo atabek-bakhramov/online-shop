@@ -1,8 +1,7 @@
 # Online-shop
 ### This is a MERN-stack project.
 #### The features that are implemented in this project:
-Markup : * Bullet list Full featured shopping cart
-
+* Full featured shopping cart
 Product reviews and ratings
 
 Top products carousel
