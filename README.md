@@ -1,6 +1,6 @@
 # Best Online Shop
 
-### This is a MERN-stack project.
+### This is a MERN-stack project. Demo on https://onlineshopwebapp.herokuapp.com/
 
 #### The features that are implemented in this project:
 
