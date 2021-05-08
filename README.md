@@ -1,4 +1,4 @@
-# Online-shop
+# Online Shop
 
 ### This is a MERN-stack project.
 
